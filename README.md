@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@shahedulkarimctg)
 
-- 💬 Ask me about: **OOP, C#, Asp.net, Sql, React**
+- 💬 Ask me about: **OOP, C#, Asp.net, Sql, React, Node, Js**
 
 - 📫 How to reach me: **shahedkarim.cs@gmail.com**
 
