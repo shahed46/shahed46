@@ -7,8 +7,10 @@
 
 ### 🔹 Stacks I love to work with
 
-[![React](https://img.shields.io/badge/Asp.net-black?style=for-the-badge&logo=java)](https://www.react.com/)
-[![Java](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)](https://www.java.com/)
+[![Dotnet](https://img.shields.io/badge/Asp.net-black?style=for-the-badge&logo=java)]([https://dotnet.microsoft.com/en-us/apps/aspnet)](https://dotnet.microsoft.com/en-us/apps/aspnet))
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://react.dev/)](https://react.dev/))
+[![Node](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://nodejs.org/en)](https://nodejs.org/en))
+[![Angular](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://angular.dev/overview](https://angular.dev/overview))
 
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@shahedulkarimctg)
