@@ -7,10 +7,10 @@
 
 ### 🔹 Stacks I love to work with
 
-[![Dotnet](https://img.shields.io/badge/Asp.net-black?style=for-the-badge&logo=java)]([https://dotnet.microsoft.com/en-us/apps/aspnet)](https://dotnet.microsoft.com/en-us/apps/aspnet))
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://react.dev/)](https://react.dev/))
-[![Node](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://nodejs.org/en)](https://nodejs.org/en))
-[![Angular](https://img.shields.io/badge/React-black?style=for-the-badge&logo=java)]([https://angular.dev/overview](https://angular.dev/overview))
+[![Asp.net](https://img.shields.io/badge/Asp.net-black?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://angular.dev/overview)
 
 
 - 📝 I regularly write articles on: [Medium](https://medium.com/@shahedulkarimctg)
